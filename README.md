@@ -1,6 +1,9 @@
 <h1>Easy Shopping Mobile</h1>
 <br>
 <br>
+<a href="https://beatriz-cirqueira.github.io/Easy-Shopping-DevClub/">Click here to visit the site of the project!</a>
+<br>
+<br>
 <p align="center">
   <a href="#house-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
